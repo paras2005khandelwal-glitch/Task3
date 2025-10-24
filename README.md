@@ -1,2 +1,2 @@
 # Task3
-I tried re-designing a Travel website named " 
+I tried re-designing a Travel website named "Delhi Tourism" which I found randomly on browser. In that website I redesign many things. I design it's navigation bar and Hero section of that website. Fixed font hierarchy on different parts. I reduce corner sharpness of images. Also redesign footer section that is too big in original website. Place things accordingly in new design. Reduce things that are too overwhelming.
